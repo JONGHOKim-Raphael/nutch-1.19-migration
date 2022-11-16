@@ -34,3 +34,6 @@ nutch-1.19/ivy
 
 # Ignore gradle files
 .gradle/
+gradle/
+gradlew
+gradlew.bat
