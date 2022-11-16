@@ -27,3 +27,10 @@ naivebayes-model
 csvindexwriter
 lib/spotbugs-*
 ivy/dependency-check-ant/*
+
+# Ignore nutch files
+nutch-1.19/conf
+nutch-1.19/ivy
+
+# Ignore gradle files
+.gradle/
